@@ -22,4 +22,3 @@ I am a **Senior Full-Stack Developer** with a proven track record of delivering 
 *   **Location:** Cairo, Egypt (Available for all time zones)
 
 ---
-*"I turn complex technical challenges into seamless digital experiences."*
