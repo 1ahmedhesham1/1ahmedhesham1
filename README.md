@@ -10,10 +10,6 @@ I am a **Senior Full-Stack Developer** with a proven track record of delivering 
 *   **Optimization:** Expert in fixing legacy code, performance tuning, and security patching.
 *   **Operations:** Domain management, Hosting, and CI/CD (GitHub Actions).
 
-### 🚀 Currently Working On
-*   Building scalable SaaS architectures using **MERN Stack**.
-*   Mastering advanced **System Design** and cloud deployments.
-*   **Open for:** Full-time Remote Roles & Strategic Freelance Partnerships.
 
 ### 📈 Why Hire Me?
 - **Reliability:** 115+ projects delivered on time and with top quality.
