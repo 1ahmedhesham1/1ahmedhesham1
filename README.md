@@ -21,8 +21,8 @@ I am a **Senior Full-Stack Developer** with a proven track record of delivering 
 - **Business-Minded:** I focus on SEO, performance, and user experience to drive ROI.
 
 ### 📫 How to Reach Me
-*   **Email:** [your-email@example.com]
-*   **LinkedIn:** [://linkedin.com]
+*   **Email:** [1ahmedhesham728@gmail.com]
+*   - 📸 **Instagram:** [eagle_egy_a](https://instagram.com)
 *   **Location:** Cairo, Egypt (Available for all time zones)
 
 ---
